@@ -1,0 +1,14 @@
+1 ---
+Passez les tests vérifiant l'implémentation des propriétés de la classe Player
+2 ---
+Passez les tests vérifiant l'implémentation des methodes de la classe Player
+3 ---
+Passez les tests vérifiant l'implémentation des propriétés de la classe Enemy
+4 ---
+Passez les tests vérifiant l'implémentation des methodes de la classe Enemy
+5 ---
+Passez les tests vérifiant l'implémentation de la classe Skull
+6 ---
+Passez les tests vérifiant l'implémentation de la classe Orc
+7 ---
+Testez l'interaction des classes Player et Enemy

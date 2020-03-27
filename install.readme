@@ -1,0 +1,37 @@
+# 1 Démarrage
+
+- depuis github, forkez le repository suivant : https://github.com/Kostra0ne/sp4-tp-js-4.git
+- vous obtiendrez votre propre copie sur votre compte
+
+
+# 2 - Dans un terminal, choisissez une destination et cloner le repository que vous avez forké
+
+$ git clone VOTRE_URL_DE_FORK
+
+
+# 3 - Naviguez dans le repo local et 
+
+$ cd sp4-tp-js-4
+
+
+# 4 - Installez les dépendances avec la commande: 
+
+$ npm install
+
+
+# 5 - Depuis le même repo local, lancez le jeu de test avec la commande:
+
+$ npm run test
+
+
+# 6 - Suivez les informations/debug affichées dans votre terminal
+
+--------------------------------------------------------------
+
+# ATTENTION : NE PAS MODIFIER les fichiers situés dans tests/
+
+# Modifiez uniquement les fichiers situés dans src/
+
+# N'hésitez pas à utiliser les liens fournis dans les fichiers de src/
+
+# Happy coding !!!
